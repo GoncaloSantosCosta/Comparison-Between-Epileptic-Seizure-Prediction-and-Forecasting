@@ -1,2 +1,2 @@
-# Machine-Learning-Methods-in-Seizure-Prediction-and-Forecasting-What-Is-the-Best-Approach
-Python code used in "Machine Learning Methods in Seizure Prediction and Forecasting: What Is the Best Approach?"
+# Comparison-Between-Epileptic-Seizure-Prediction-and-Forecasting
+Python code used in "Comparison Between Epileptic Seizure Prediction and Forecasting Based on Machine Learning"
