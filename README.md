@@ -1,6 +1,6 @@
 ## Comparison-Between-Epileptic-Seizure-Prediction-and-Forecasting
 
-This is the python code used in "Comparison Between Epileptic Seizure Prediction and Forecasting Based on Machine Learning", currently i review in Scientific Reports. This is the full code for three seizure prediction and forecasting Machine Learning frameworks (the classifiers for each framework are a Logistic Regression, an Ensemble of 15 Support Vector Machines (SVMs), and an ensemble of 15 Shallow neural Networks (SNNs)). It also provides scripts to plot the postprocessing output in time. The difference between prediction and forecasting in this study was the postprocessing method used, so each pipeline shows results for both approaches.
+This is the python code used in "Comparison Between Epileptic Seizure Prediction and Forecasting Based on Machine Learning", published in Scientific Reports (https://doi.org/10.1038/s41598-024-56019-z). This is the full code for three seizure prediction and forecasting Machine Learning frameworks (the classifiers for each framework are a Logistic Regression, an Ensemble of 15 Support Vector Machines (SVMs), and an ensemble of 15 Shallow neural Networks (SNNs)). It also provides scripts to plot the postprocessing output in time. The difference between prediction and forecasting in this study was the postprocessing method used, so each pipeline shows results for both approaches.
 
 This study uses data from the EPILEPSIAE database. The data was provided under license for this study by the EPILEPSIAE Consortium. Therefore, it is not publicly available. However, it can be made available upon reasonable request and with permission from the EPILEPSIAE Consortium.
 
@@ -33,3 +33,7 @@ These files contain function that are mostly specific to each pipeline:
 - [getPlots_SNNs.py]: function Firing Power over time using the 15 SNN ensemble.
 
 - [utils.py]: script containing several utility functions used throughout the pipeline.
+
+## Please cite this work as:
+
+Costa, G., Teixeira, C. & Pinto, M.F. Comparison between epileptic seizure prediction and forecasting based on machine learning. Sci Rep 14, 5653 (2024). https://doi.org/10.1038/s41598-024-56019-z
