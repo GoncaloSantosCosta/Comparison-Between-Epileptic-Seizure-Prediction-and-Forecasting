@@ -4,7 +4,7 @@ This is the python code used in "Comparison Between Epileptic Seizure Prediction
 
 This study uses data from the EPILEPSIAE database. The data was provided under license for this study by the EPILEPSIAE Consortium. Therefore, it is not publicly available. However, it can be made available upon reasonable request and with permission from the EPILEPSIAE Consortium.
 
-Three folders are available, one for each of the pipelines we entioned above.
+Three folders are available, one for each of the pipelines we mentioned above.
 
 #### Main files
 These files are the ones you execute:
